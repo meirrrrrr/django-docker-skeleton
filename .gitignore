@@ -1,0 +1,4 @@
+app/media/
+app/**/migrations/
+__pycache__/
+.idea/
